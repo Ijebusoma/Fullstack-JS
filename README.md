@@ -6,11 +6,16 @@ So I decided to put together a pool of resources I come across based precisely a
 
 ### ARTICLES
 [How to set up Webpack](https://scotch.io/tutorials/setting-up-webpack-for-any-project)
+
 [Webpack 4 Tutorial](https://www.valentinog.com/blog/webpack-tutorial/#webpack_4_as_a_zero_configuration_module_bundler)
 
 
 
 ### VIDEOS
+
+
+
+
 
 
 
