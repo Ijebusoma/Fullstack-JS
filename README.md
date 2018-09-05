@@ -9,6 +9,14 @@ So I decided to put together a pool of resources I come across based precisely a
 
 [Webpack 4 Tutorial](https://www.valentinog.com/blog/webpack-tutorial/#webpack_4_as_a_zero_configuration_module_bundler)
 
+[Loading Images/Assests with Webpack](https://webpack.js.org/guides/asset-management/#loading-images)
+
+[Programmatically navigate with React Router](https://tylermcginnis.com/react-router-programmatically-navigate/)
+
+[Using create-react-app](https://www.codecademy.com/articles/how-to-create-a-react-app)
+
+[React <Link> - Link HTML pages](https://knowbody.github.io/react-router-docs/api/Link.html)
+
 
 
 ### VIDEOS
