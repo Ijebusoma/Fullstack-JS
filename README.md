@@ -22,6 +22,8 @@ So I decided to put together a pool of resources I come across based precisely a
 [How to Run React and Node in same project](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
 
 [How to run react-app simulataneously  with a Node.js back-end API] (https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0)
+[Redux Documentation](redux.js.org)
+[React Router Training](https://reacttraining.com/react-router/core/guides/philosophy)
 
 
 ### VIDEOS
