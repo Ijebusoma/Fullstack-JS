@@ -24,6 +24,7 @@ So I decided to put together a pool of resources I come across based precisely a
 [How to run react-app simulataneously  with a Node.js back-end API] (https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0)
 [Redux Documentation](redux.js.org)
 [React Router Training](https://reacttraining.com/react-router/core/guides/philosophy)
+[Setting up webpack for Production](https://areknawo.com/how-to-setup-webpack-config/)
 
 
 ### VIDEOS
