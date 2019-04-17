@@ -4,7 +4,7 @@ So I decided to put together a pool of resources I come across based precisely a
 
 
 
-### ARTICLES
+### ARTICLES & REFS
 [How to set up Webpack](https://scotch.io/tutorials/setting-up-webpack-for-any-project)
 
 [Webpack 4 Tutorial](https://www.valentinog.com/blog/webpack-tutorial/#webpack_4_as_a_zero_configuration_module_bundler)
@@ -25,6 +25,7 @@ So I decided to put together a pool of resources I come across based precisely a
 [Redux Documentation](redux.js.org)
 [React Router Training](https://reacttraining.com/react-router/core/guides/philosophy)
 [Setting up webpack for Production](https://areknawo.com/how-to-setup-webpack-config/)
+[Integrating Codecov](https://github.com/istanbuljs/nyc/blob/master/docs/setup-codecov.md)
 
 
 ### VIDEOS
