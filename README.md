@@ -34,6 +34,7 @@ So I decided to put together a pool of resources mostly articles I come across w
 * [Setting up Postgres and Sequelize ScotchIO](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize)
 * [Setting up Postgres and Sequelize by Robin Wieruch](https://www.robinwieruch.de/postgres-express-setup-tutorial/)
 * [Eslint+Prettier setup by Wes Bos](https://www.youtube.com/watch?v=lHAeK8t94as)
+* [Set up Eslint with Airbnb style guide](https://travishorn.com/setting-up-eslint-on-vs-code-with-javascript-standard-style-aa3ab75bcc1c)
 * [JSDOC warning support](https://github.com/gajus/eslint-plugin-jsdoc)
 * [Sequelize CheatSheet](https://gist.github.com/vapurrmaid/a111bf3fc0224751cb2f76532aac2465)
 * [Social login NODE Js](https://mherman.org/blog/social-authentication-in-node-dot-js-with-passport/)
