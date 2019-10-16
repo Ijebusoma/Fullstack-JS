@@ -3,9 +3,7 @@
 
 ## Fullstack-JS
 Javascript is everywhere and basically it's going to be around for a long time, that's enough reason for anyone to get their hands dirty with it I guess. 
-So I decided to put together a pool of resources mostly articles I come across while building and breakaing stuff.
-
-
+So I decided to put together a pool of resources that I find helpful while building and breaking stuff.
 
 ### ARTICLES & REFERENCES
 * [How to set up Webpack](https://scotch.io/tutorials/setting-up-webpack-for-any-project)
@@ -29,4 +27,6 @@ So I decided to put together a pool of resources mostly articles I come across w
 * [JSDOC warning support](https://github.com/gajus/eslint-plugin-jsdoc)
 * [Sequelize CheatSheet](https://gist.github.com/vapurrmaid/a111bf3fc0224751cb2f76532aac2465)
 * [Social login NODE Js](https://mherman.org/blog/social-authentication-in-node-dot-js-with-passport/)
-
+ 
+ ### HELPFUL VIDEOS
+* [Authentication with Facebook using Passport and Node](https://www.youtube.com/watch?v=OMcWgmkMpEE)
