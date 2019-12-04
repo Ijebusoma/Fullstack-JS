@@ -29,6 +29,7 @@ So I decided to put together a pool of resources that I find helpful while build
 * [Social login NODE Js](https://mherman.org/blog/social-authentication-in-node-dot-js-with-passport/)
 * [Modify Sequelize Column](https://stackoverflow.com/questions/53982573/how-to-modify-sequelize-migrations)
 * [Revoking JWT Tokens -StackOverflow thread](https://stackoverflow.com/questions/31919067/how-can-i-revoke-a-jwt-token)
+* [Set up Env variables with DotEnv](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
  
  ### HELPFUL VIDEOS
 * [Authentication with Facebook using Passport and Node](https://www.youtube.com/watch?v=OMcWgmkMpEE)
