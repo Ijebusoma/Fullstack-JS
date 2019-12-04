@@ -28,6 +28,7 @@ So I decided to put together a pool of resources that I find helpful while build
 * [Sequelize CheatSheet](https://gist.github.com/vapurrmaid/a111bf3fc0224751cb2f76532aac2465)
 * [Social login NODE Js](https://mherman.org/blog/social-authentication-in-node-dot-js-with-passport/)
 * [Modify Sequelize Column](https://stackoverflow.com/questions/53982573/how-to-modify-sequelize-migrations)
+* [Revoking JWT Tokens -StackOverflow thread](https://stackoverflow.com/questions/31919067/how-can-i-revoke-a-jwt-token)
  
  ### HELPFUL VIDEOS
 * [Authentication with Facebook using Passport and Node](https://www.youtube.com/watch?v=OMcWgmkMpEE)
