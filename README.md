@@ -2,8 +2,7 @@
 [![contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://shields.io)
 
 ## Fullstack-JS
-Javascript is everywhere and basically it's going to be around for a long time, that's enough reason for anyone to get their hands dirty with it I guess. 
-So I decided to put together a pool of resources that I find helpful while building and breaking stuff.
+Put together a couple of resources revolving around JS especially the back end
 
 ### ARTICLES & REFERENCES
 * [How to set up Webpack](https://scotch.io/tutorials/setting-up-webpack-for-any-project)
